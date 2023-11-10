@@ -1,0 +1,9 @@
+com\projetofinal\backend\entities\Funcionario.class
+com\projetofinal\backend\repositories\FuncionarioRepository.class
+com\projetofinal\backend\controllers\FuncionarioController.class
+com\projetofinal\backend\repositories\ProdutoRepository.class
+com\projetofinal\backend\services\FuncionarioService.class
+com\projetofinal\backend\entities\Produto.class
+com\projetofinal\backend\BackendApplication.class
+com\projetofinal\backend\services\ProdutoService.class
+com\projetofinal\backend\controllers\ProdutoController.class
